@@ -171,5 +171,5 @@ function formatDate(dateString){
   })
 }
 
-searchInput.value = "404-ERROR-Striver";
+searchInput.value = "";
 searchUser();
